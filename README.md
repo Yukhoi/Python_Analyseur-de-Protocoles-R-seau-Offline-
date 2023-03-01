@@ -1,4 +1,5 @@
-# this is a python program to analyser the protocoles of Internet. To run the program, tape
+# Analyseur de Protocoles Réseaux 'Offline'
+this is a python program to analyser the protocoles of Internet. To run the program, tape
 
 `python interface.py`
 
